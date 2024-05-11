@@ -1,0 +1,11 @@
+﻿G:\test\testVisualStudioMaj2024\Formes\Formes\modele\Carre.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\modele\Cercle.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\modele\Cube.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\modele\IForme.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\modele\IForme2D.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\modele\IForme3D.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\modele\Sphere.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\Program.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\vue\FrmFormes.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\vue\FrmFormes.Designer.cs
+G:\test\testVisualStudioMaj2024\Formes\Formes\vue\FrmFormes.resx
